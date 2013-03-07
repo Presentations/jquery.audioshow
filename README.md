@@ -24,7 +24,7 @@ See demo.html
 
 OPTIONS:
 
-'transition' means how one photo fades into the next.
+- 'transition' means how one photo fades into the next.
 
   Options:
   
@@ -41,10 +41,10 @@ OPTIONS:
     'slidedown'
     
 
-'speed' is the speed of the transition itself, in miliseconds 
+- 'speed' is the speed of the transition itself, in miliseconds 
 
 
-'fill_space'
+- 'fill_space' is the amount of space the player takes up
 
   Options:
   
