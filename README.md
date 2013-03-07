@@ -42,7 +42,7 @@ OPTIONS:
 
 KNOWN ISSUES:
 
-- There's some trouble with pause/play, probably while during
+- There's some trouble with pause/play, probably occurs during
 transitions
 - Should add introductory/before-play slide with title options
 - Currently can't click thumbnail to move to that part of show
