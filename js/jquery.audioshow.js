@@ -1,10 +1,13 @@
 /*
-todo
-- there's still trouble with pause/play, probably while during transitions
-- opening slide with title and desc
-- click thumb to move to it
-- disable slider from mouse action
-*/
+/*
+ * jQuery Audioshow
+ *
+ * Simplified BSD License (@see License)
+ * @author        Keith Collins
+ * @copyright     (c) 2012 Keith Collins
+ * @version 0.0.1
+ * @requires jQuery
+ */
 (function( $ ){
 	var defaults = {
 		transition: 'none',
