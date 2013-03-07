@@ -3,22 +3,20 @@ jquery.audioshow
 
 Audioshow: Audio Slideshows with jQuery By Keith Collins
 
-http://keithcollins.net
-
-twitter: @collinskeith
+http://keithcollins.net | twitter: @collinskeith
 
 Note: All photos and audio included in this repository are owned by the author and 
 are to be used for demonstration purposes only.
-
-WORK IN PROGRESS:
-
-This isn't quite ready for production. See the known issues below.
 
 INTRO:
 
 Audioshow is a simple way to take an audio file and some photos and turn them into an audio slideshow. 
 
 See live demo at http://www.keithcollins.net/audioshow/
+
+WORK IN PROGRESS:
+
+This isn't quite ready for production. See the known issues below.
 
 USAGE:
 
