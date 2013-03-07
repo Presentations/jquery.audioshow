@@ -24,21 +24,34 @@ See demo.html
 
 OPTIONS:
 
-'transition' means how one photo fades into the next. 
-  Options: 
+'transition' means how one photo fades into the next.
+
+  Options:
+  
     'fade' means fade out one, fade in next
+    
     'crossfade' means cross dissolve, fade one into next
+    
     'slideLeft'
+    
     'slideRight'
+    
     'slideUp'
+    
     'slidedown'
+    
 
 'speed' is the speed of the transition itself, in miliseconds 
 
+
 'fill_space'
+
   Options:
+  
     'true' will take up the entire width of the parent container
+    
     'false' will base the width of the player on the largest photo in the set
+    
 
 KNOWN ISSUES:
 
