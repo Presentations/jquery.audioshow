@@ -9,8 +9,22 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script src="js/jquery-ui-1.8.18.custom.min.js"></script>
 <script src="js/jquery.audioshow.js"></script>
-
-	
+<script type="text/javascript">
+// loud narrative player setup
+	$('#demo').audioshow({
+		'transition' : 'fade',
+		'speed' : 2000,
+		'bg_color' : '#000000',
+		'border_color' : 'black',
+		'border_width' : 5,
+		'mp3' : 'audio/streetmusic-harmonica.mp3',
+		'ogg' : 'audio/streetmusic-harmonica.ogg',
+		'wav' : 'audio/streetmusic-harmonica.wav',
+		'fill_space' : true
+	});
+</script>
+</head>
+<body>
 	<div class="audioshow-container">
 	  <ul class="audioshow-thumbs" id="demo">
 	    <li>
@@ -75,23 +89,6 @@
 	    </li>	   
 	  </ul>
 	</div>
-
-
-<script type="text/javascript">
-// loud narrative player setup
-	$('#demo').audioshow({
-		'transition' : 'fade',
-		'speed' : 2000,
-		'bg_color' : '#000000',
-		'border_color' : 'black',
-		'border_width' : 5,
-		'mp3' : 'audio/streetmusic-harmonica.mp3',
-		'ogg' : 'audio/streetmusic-harmonica.ogg',
-		'wav' : 'audio/streetmusic-harmonica.wav',
-		'fill_space' : true
-	});
-</script>
-
 </div>
 <div style="padding-bottom:150px">&nbsp;</div>
 
