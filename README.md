@@ -40,6 +40,8 @@ OPTIONS:
     
     'slidedown'
     
+    'none'
+    
 
 - 'speed' is the speed of the transition itself, in miliseconds 
 
