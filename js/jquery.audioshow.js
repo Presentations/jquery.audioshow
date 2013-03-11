@@ -2,7 +2,7 @@
 /*
  * jQuery Audioshow
  *
- * Simplified BSD License (@see License)
+ * MIT License (@see License)
  * @author        Keith Collins
  * @copyright     (c) 2012 Keith Collins
  * @version 0.0.1
